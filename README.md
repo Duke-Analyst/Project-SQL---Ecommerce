@@ -1,2 +1,2 @@
-# Project SQL- E-commerce company'data
+# SQL - E-commerce company's data
 Today is Monday
